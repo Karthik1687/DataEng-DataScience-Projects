@@ -1,0 +1,31 @@
+0.01 - This Video is demo is Marketing Data Exploration project. we will see here that how a data scientist or big data engineer uses spark to get answer of quetions asked by marketing team.
+
+0.25 - First of all we will start spark shell. Just type spark-shell on terminal and you should be able to start spark shell.
+
+
+
+0.50 - Now , since spark has started, Lets start with coding. First of all we will write some import statements.
+
+
+1.05 - Next step is to read the input data and load it as rdd 
+
+1.23 - This regular expression will help you ignore comma in any field surrounded with quotes. It is required for address field
+
+1.39 - lets get first line of input file.
+
+1.50 - since first line is only header fields, lets filter it out
+
+2.15 - Now we will map every input line to Row class, specifing Double type for column X and Y, this will create a row RDD
+
+2.28 - Now let us define the schema for Data frame 
+
+2.53 - Let us create a data frame using Row RDD andd schema.
+
+
+3.11 - Great, since our data frame is ready, lets us try to know , what was success rate of our Marketing campain.
+
+3.20 - seems like, i need to remove the bracket at end.
+
+4.06 - well 0.116 someting is sucess rate of Marketing campain.
+
+ 

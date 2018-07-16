@@ -1,0 +1,8 @@
+0.01 - In this Video we will find out maximun, minimum, average and median age in dataset.
+
+0.22 - Using data frames you can directly mention a select statement and also use fuctions provided by spark. max, min and mean are functions provided by spark. This may take some time to run, depending on your machine configuration.
+
+1.33 - But we still need to find out median age in dataset. To achieve this we can use percentile function provided by spark. we can register a table and pass sql statments. Let us find out median by passing sql statement to spark
+
+
+

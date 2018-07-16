@@ -1,0 +1,21 @@
+0.10 - In this Video we will check if mean and median balance of client are close in data set or not
+
+0.38 - well it looks like, there is lot of defence between average balance and median balance of client accounts. So this show that most of people contacted as part of this campain had very good balance in there account.
+
+0.53 - Let us see what is average age of people who subscribe and dont subscribe for deposit.
+
+1.04 - So avergae age is very close.
+
+1.11 - Let us see if marital status has some connection with deposits making.
+
+1.20 - Well this is not clear.
+
+1.32 - Let us change our query  a bit.
+
+1.41 - Looks like most of people contacted were married. and interesting thing is that divorced people has more success rate here for deposits. single people have made lesser deposits.
+
+1.57 - Let us see if age has any effect.
+
+2.06 - well this is not clear. lets make age a categorical variable
+
+

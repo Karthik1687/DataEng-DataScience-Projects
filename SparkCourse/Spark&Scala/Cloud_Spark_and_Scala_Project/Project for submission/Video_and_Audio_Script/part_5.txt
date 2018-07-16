@@ -1,0 +1,11 @@
+0.02 - Let us divide age in different categories of young , old and mid age. people with age less than 25 is young, 24 to 60 is mid age and 60 plus is old age
+
+0.30 - That looks good , we have added a new column named age underscore cat.
+
+0.40 - let us create a new data frame with this new column and call it df new
+
+
+0.58 - Let us now do same analysis on age underscore cat column.
+
+1.12 - Here are the results. old age people has alsmost maximum of deposit rate , young people has ok deposit  rate and mid age people are not making much of deposits. Having more categories for age can further give more clarity in this case. 
+  

@@ -1,0 +1,7 @@
+0.05 - Let us first register our dataframe as table with spark.
+
+0.36 - Now we can write a sql statement to get median age.
+
+1.02 - So median age is 39
+
+1.05 - we can calculate min, max , average and median in single sql statement.
